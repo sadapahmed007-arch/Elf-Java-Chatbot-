@@ -1,0 +1,25 @@
+# Java compiled output
+out/
+bin/
+*.class
+
+# Runtime user data (may contain private information)
+chat_history.txt
+memories.txt
+life_story.txt
+passwords.txt
+reminders.txt
+to-do.txt
+bot_name.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
